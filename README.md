@@ -1,3 +1,4 @@
+![photo](photo.png)
 # HelloWorld
 This is my first repository
 
